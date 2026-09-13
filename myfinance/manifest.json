@@ -1,0 +1,25 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "MyFinance",
+  "orientation": "any",
+  "scope": "/app/myfinance/",
+  "short_name": "MyFinance",
+  "start_url": "https://sxy.appsmith.com/app/myfinance/expense-6aa50e23e8f923fb86ea98b1?environment=production",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://sxy.appsmith.com/favicon.ico",
+      "type": "image/x-icon",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ]
+}
